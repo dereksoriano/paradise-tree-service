@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paradise-tree-service.com/sitemap.xml
